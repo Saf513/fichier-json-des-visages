@@ -19,8 +19,6 @@ fetch('./visage')
         visageDisplay.forEach(face => {
           
           let faceElement = document.createElement('div');
-           faceElement.classList.add('face-item')
-
         
            let pic = document.createElement('img');
            let gendre = document.createElement('p');
@@ -36,5 +34,6 @@ fetch('./visage')
             faceContainer.appendChild(faceElement);
             faceElement .appendChild(pic);
             faceElement .appendChild(gendre);
+            console.log(faceContainer)
         });
     }
