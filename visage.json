@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "img": "https://kellei.info/images5/0516/coupe-de-cheveux-visage-rond-homme/coupe-de-cheveux-visage-rond-homme-36_19.jpg",
+        "gendre": "homme"
+    },
+    {
+        "id": "2",
+        "img": "https://img-4.linternaute.com/kY_KDUpRBTT2f1eOc0R2XkuQXUU=/485x620/smart/519a2e031a7044efb25a945c70b52289/ccmcms-linternaute/10374044.jpg",
+        "gendre": "femme"
+    },
+    {
+        "id": "3",
+        "img": "https://th.bing.com/th/id/R.3e324959cd878f35b14eab75dff537ee?rik=1x%2f4XUoW1%2f3ugw&riu=http%3a%2f%2fallezlarochelle.a.l.pic.centerblog.net%2f45158fe9.jpg&ehk=%2bKu0tRePOoLLkhAYvRVBZNb9dQLVvtjEE54HiMtGW9o%3d&risl=&pid=ImgRaw&r=0",
+        "gendre": "femme"
+    },
+    {
+        "id": "1",
+        "img": "https://i.pinimg.com/originals/6d/79/e8/6d79e8b617c491c9674d197e80bd885d.jpg",
+        "gendre": "homme"
+    },
+    {
+        "id": "1",
+        "img": "https://i.pinimg.com/736x/58/0a/87/580a87550f7b391c2e7e6de67b1b932e--faces.jpg",
+        "gendre": "homme"
+    }
+]
