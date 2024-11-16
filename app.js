@@ -1,4 +1,4 @@
-fetch('./fichier.json')
+fetch('./visage.json')
     .then(response => response.json())
     .then(data => {
         test(data); 
