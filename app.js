@@ -1,4 +1,4 @@
-fetch('./visage')
+fetch('./visage.json')
     .then(response => response.json())
     .then(data => {
         test(data); 
@@ -15,7 +15,6 @@ fetch('./visage')
 
         const faceContainer = document.getElementById('face-container');
 
-       
         visageDisplay.forEach(face => {
           
           let faceElement = document.createElement('div');
