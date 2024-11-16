@@ -1,4 +1,4 @@
-fetch('./visage.json')
+fetch('./visage')
     .then(response => response.json())
     .then(data => {
         test(data); 
@@ -16,7 +16,7 @@ fetch('./visage.json')
         const faceContainer = document.getElementById('face-container');
 
        
-        booksToDisplay.forEach(face => {
+        visageDisplay.forEach(face => {
           
           let faceElement = document.createElement('div');
            faceElement.classList.add('face-item')
